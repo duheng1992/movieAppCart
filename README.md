@@ -1,8 +1,18 @@
-# app
+# 简易vueCart购物车
 
-> A Vue.js project
+> 技术栈：vue + vuex + node(改进回调的express) + mysql
 
-## Build Setup
+## 开发调试
+
+后台: localhost:8888
+
+web端: localhost:8088
+
+调用豆瓣API: 	"https://douban.uieee.com/v2/movie", "https://api.douban.com/v2/movie"
+
+电影数据从豆瓣获取，后端node代码用于跨域获取数据，源代码见我的另一篇github：nodejs后台支持
+
+登陆信息从mysql获取，数据库里需要有字段：username 和 password;
 
 ``` bash
 # install dependencies
@@ -18,4 +28,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 登入界面：
