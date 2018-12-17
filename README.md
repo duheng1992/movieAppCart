@@ -28,5 +28,8 @@ npm run build
 npm run build --report
 ```
 
+## 用途：
+本人是前端初学者，该项目是借鉴网络资源再开发的项目，仅供学习交流
+
 ## 登入界面：
  ![image](https://github.com/duheng1992/movieAppCart/blob/master/index.jpg)
