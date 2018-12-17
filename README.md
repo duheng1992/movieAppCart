@@ -29,4 +29,4 @@ npm run build --report
 ```
 
 ## 登入界面：
- ![image](https://github.com/duheng1992/movieAppCart/index.PNG)
+ ![image](https://github.com/duheng1992/movieAppCart/blob/master/index.jpg)
